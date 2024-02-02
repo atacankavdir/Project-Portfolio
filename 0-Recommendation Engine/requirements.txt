@@ -6,7 +6,7 @@ seaborn==0.10.0
 jupyter==1.0.0
 plotly==4.11.0
 plotly-express==0.4.1
-dash==1.17.0
+dash==2.15.0
 dash-bootstrap-components==0.10.7
 dash-core-components==1.13.0
 dash-html-components==1.1.1
